@@ -1,1 +1,0 @@
-# magnum__study
