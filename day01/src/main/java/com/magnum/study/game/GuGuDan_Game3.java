@@ -51,6 +51,7 @@ public class GuGuDan_Game3 {
 
 
     public static void main(String[] args) {
+
         GuGuDan_Game3 gugu = new GuGuDan_Game3();
     }
 }

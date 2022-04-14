@@ -5,10 +5,11 @@ import java.util.Scanner;
 public class OddNum {
 
     public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
         int[][] array = new int[3][3];
-
-        int colStart = 1;
         int rowStart = 0;
+        int colStart = 1;
         int curNum=1;
 
         array[rowStart][colStart] = curNum++;
